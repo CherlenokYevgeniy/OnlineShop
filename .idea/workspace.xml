@@ -12,7 +12,18 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\cherl\PhpstormProjects\OnlineShop\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1UQF6rNIm1jIqWdCjehSrA3CpoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +66,7 @@
       <workItem from="1575372229981" duration="414000" />
       <workItem from="1575372889914" duration="40000" />
       <workItem from="1575372947162" duration="11265000" />
-      <workItem from="1575453912035" duration="4451000" />
+      <workItem from="1575453912035" duration="20505000" />
     </task>
     <servers />
   </component>
@@ -70,5 +82,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1575453912048" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1575547986320">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1575547986320" />
   </component>
 </project>
