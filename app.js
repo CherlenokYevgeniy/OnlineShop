@@ -6,7 +6,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var expressHbs = require('express-handlebars');
 var mongoose = require('mongoose');
-
+//asdfasdf
 var routes = require('./routes/index');
 
 mongoose.connect('mongodb://127.0.0.1:27017/shopping');
