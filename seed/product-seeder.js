@@ -4,28 +4,58 @@ var mongoose = require('mongoose');
 mongoose.connect('mongodb://127.0.0.1:27017/shopping');
 var products =[
     new Product({
-        imagePath: 'http://orbitnetwork.ru/images/kartinki-iz-komputernyh-igr/02.jpg',
-        title: 'Assasin',
-        description: 'good game',
-        price: 10
+        imagePath: 'https://steampay.com/image/playerunknowns-battlegrounds.jpg?1505771258',
+        title: 'PUBG',
+        description: 'Action, Adventure',
+        price: 14
     }),
     new Product({
-        imagePath: 'https://delta-game.ru/wp-content/uploads/2017/07/PUBG.png',
-        title: 'PUBG',
-        description: 'very good game',
+        imagePath: 'https://steampay.com/image/grand-theft-auto-v-premium-online-edition.jpg?1565861609',
+        title: 'GRAND THEFT AUTO V',
+        description: 'Action, Adventure',
         price: 20
     }),
     new Product({
-        imagePath: 'https://gagadget.com/media/uploads/games2015/grand_theft_auto_v.jpg',
-        title: 'GTA5',
-        description: 'good game',
-        price: 30
+        imagePath: 'https://steampay.com/image/dirt-rally.jpg?1505771258',
+        title: 'DIRT RALLY',
+        description: 'Simulators, Race, Sport' ,
+        price: 1
     }),
     new Product({
-        imagePath: 'https://la-mansh.com.ua/images/kartinki/kartinki_articles/tegos_games.jpg',
-        title: 'Super Mario',
-        description: 'good game',
+        imagePath: 'https://steampay.com/image/resident-evil-2.jpg?1531218614',
+        title: 'RESIDENT EVIL 2',
+        description: 'Action',
         price: 10
+    }),
+    new Product({
+        imagePath: 'https://steampay.com/image/doom.jpg?1505771258',
+        title: 'DOOM',
+        description: 'Action',
+        price: 5
+    }),
+    new Product({
+        imagePath: 'https://steampay.com/image/terraria.jpg?1505771258',
+        title: 'TERRARIA',
+        description: 'Action, RPG, Adventure' ,
+        price: 3
+    }),
+    new Product({
+        imagePath: 'https://steampay.com/image/far-cry-5.jpg?1505771258',
+        title: 'FAR CRY 5',
+        description: 'Action, Adventure',
+        price: 25
+    }),
+    new Product({
+        imagePath: 'https://steampay.com/image/the-elder-scrolls-v-skyrim.jpg?1505771258',
+        title: 'THE ELDER SCROLLS V',
+        description: 'RPG',
+        price: 7
+    }),
+    new Product({
+        imagePath: 'https://steampay.com/image/cities-skylines.jpg?1505771258',
+        title: 'CITIES: SKYLINES',
+        description: 'Strategies, Simulators' ,
+        price: 2
     })
 ];
 
